@@ -2,7 +2,7 @@
 * [#923] Nacos 1.0.0 compatible with nacos-client 0.6.2
 * [#938] Client beat processor task lost
 * [#946] Change default server mode to AP
-sdfdsfsf
+sdfdsfsf  sfdsf 0721
 
 
 ## 1.0.0-RC1(Mar 15, 2019)
